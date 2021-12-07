@@ -89,3 +89,15 @@ a:hover {
   font-size: 20px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 415px){
+  h1{
+    font-size:45px;
+  }
+  img {
+    margin: 20px auto;
+  }
+  .contactHeader {
+    margin-top: 50px;
+  }
+}
